@@ -2,8 +2,8 @@
 
 ## Eu sou Web Designer / Designer Digital!!
 
-- 🔭 Estudante de ADS
-- 🌱 Eu estou atualmente aprendendo um pouco de tudo 🤣
+- 👨🏾‍💻 💻 Estudante de ADS
+- 👨🏾‍💻 Eu estou atualmente aprendendo um pouco de tudo 🤣
 
 
 <div>
