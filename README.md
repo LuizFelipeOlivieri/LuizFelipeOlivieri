@@ -1,6 +1,6 @@
-### Olá, eu sou Luiz 👋
+### Hi there, I'm Luiz F. Olivieri 👋
 
-## Eu sou Web Designer / Designer Digital!!
+## Front-end Developer!!
 
 - 💻 Estudante de ADS
 - 👨🏾‍💻 Eu estou atualmente aprendendo um pouco de tudo 🤣
